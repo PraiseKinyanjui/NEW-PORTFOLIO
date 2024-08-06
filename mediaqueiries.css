@@ -60,9 +60,10 @@
   .menu-links{
     z-index: 1;
     background: transparent;
-    right: -3.5rem;
-    line-height: 1.5rem;
-    padding-top: 1rem;
+    right: -3.9rem;
+    line-height: 1rem;
+    padding-top: 0.5rem;
+    text-decoration:underline dotted 1px blueviolet;
   }
   
   article {
