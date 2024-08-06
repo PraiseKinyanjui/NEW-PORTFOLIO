@@ -164,6 +164,11 @@ section{
   height: 88vh;
 }
 
+.pic{
+  border-radius: 50%;
+  transform: rotate(-8deg);
+}
+
 .section__pic-container{
   display: flex;
   height: 400px;
